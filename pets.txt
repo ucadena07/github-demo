@@ -2,3 +2,5 @@ Henry
 Rico
 Nigel
 Duke 
+Blue
+Yellow
